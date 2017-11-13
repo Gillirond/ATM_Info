@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    text-align: center;
+    margin: 10px 10px 20px 10px;
+}
+
+#main {
+    width: 800px;
+    position: relative;
+    left: 50%;
+    margin-left: -400px;
+    border: solid 3px;
+}
+
+.ATMInfoDiv {
+    width: 783px;
+    height: 83px;
+    margin: 4px;
+    border: solid 2px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+
+.ind {
+    margin-left: 5px;
+    font-weight: bold;
+    float: left;
+}
+
+.address {
+    margin-left: 10px;
+    float: left;
+}
+
+.street {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmstreet {
+    margin-left: 3px;
+    float: left;
+}
+
+.housenumber {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmhousenumber {
+    margin-left: 3px;
+    float: left;
+}
+
+.postalcode {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmpostalcode {
+    margin-left: 3px;
+    float: left;
+}
+
+.city {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmcity {
+    margin-left: 3px;
+}
+
+.geolocation {
+    clear: both;
+    margin-left: 90px;
+    float: left;
+}
+
+.lat {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmlat {
+    margin-left: 3px;
+    float: left;
+}
+
+.lng {
+    margin-left: 15px;
+    float: left;
+}
+
+.atmlng {
+    margin-left: 3px;
+    float: left;
+ }
+
+.distance {
+    margin-left: 23px;
+    float: left;
+    clear: both;
+}
+
+.atmdistance {
+    margin-left: 3px;
+    float: left;
+}
+
+.type {
+    margin-left: 23px;
+    float: left;
+    clear: both;
+}
+
+.atmtype {
+    margin-left: 3px;
+    float: left;
+}
+
+
+#NavDiv {
+    text-align: center;
+    display: inline-block;
+}
+
+.navbtn {
+    text-align: center;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    background-color: silver;
+    color: grey;
+    margin: 15px 20px 10px 15px;
+    font-weight: bold;
+}
+
+.navbtndots {
+    text-align: center;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    background-color: #d6d6d6;
+    color: #efefef;
+    font-size: 25pt;
+    margin: 15px 20px 10px 15px;
+    padding-bottom: 12px;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 15px;
+}
